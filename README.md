@@ -14,7 +14,7 @@ Generated 5 distinct thematic variations for a "World War 5 on the Moon" concept
 Applied a "Secret Structure" prompt using Role, Context, Task, and Constraints. 
 
 **Key Technical Constraints Applied:**
-* **Scientific Accuracy:** Explicitly commanded "no explosions in space."in line with chemical explosions being impossible without the presence of oxygen or other common oxidizers
+* **Scientific Accuracy:** Explicitly commanded "no explosions in space." In line with chemical explosions being impossible without the presence of oxygen or other common oxidizers
 * **Visual Priority:** Positioned blood drops to frame, rather than obscure, the reflection.
 * **Psychological Anchor:** Dictated a "shell-shocked" expression to override generic soldier generations.
 
